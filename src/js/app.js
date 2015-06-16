@@ -1,9 +1,7 @@
-"use strict";
-
-requirejs.config({
+require.config({
 	"baseUrl": "js",
 	"paths": {
-		"jquery": "//yastatic.net/jquery/2.1.4/jquery"
+		"jquery": "../../lib/jquery-2.1.4"
 	}
 });
 
