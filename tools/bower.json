@@ -1,0 +1,12 @@
+{
+  "name": "cellular-automaton",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AlexanderShushunov/cellular_automaton",
+  "authors": [
+    "Alexander Shushunov <AShushunov@mail.ru>"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "requirejs": "~2.1.18"
+  }
+}

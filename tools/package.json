@@ -1,15 +1,18 @@
 {
   "name": "cellular-automaton",
   "version": "0.0.1",
-  "description": "",
-  "author": "Alexandr Shushunov",
+  "homepage": "https://github.com/AlexanderShushunov/cellular_automaton",
+  "authors": [
+    "Alexander Shushunov <AShushunov@mail.ru>"
+  ],
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-cli": "^0.1.13",
-    "load-grunt-tasks": "^3.2.0",
     "grunt-babel": "^4.0.0",
-    "grunt-contrib-watch": "^0.6.1",
+    "grunt-bower-task": "^0.4.0",
+    "grunt-cli": "^0.1.13",
     "grunt-contrib-clean": "^0.6.0",
-    "grunt-contrib-copy": "^0.8.0"
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^3.2.0"
   }
 }

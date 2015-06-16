@@ -22,5 +22,5 @@ module.exports = function (grunt, options) {
 		}
 	});
 
-	grunt.registerTask("build", ["babel:allScripts", "copy:allResources"]);
+	grunt.registerTask("build", ["babel:allScripts", "copy:allResources", "bower:install"]);
 };
